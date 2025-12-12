@@ -5,4 +5,4 @@ Input:
 &nbsp;&nbsp;&nbsp;&nbsp;t, time period in years  
 &nbsp;&nbsp;&nbsp;&nbsp;r, annual rate of interest  
 Output:  
-&nbsp;&nbsp;&nbsp;&nbsp;simple interest = p*t*r
+&nbsp;&nbsp;&nbsp;&nbsp;simple interest = $p\ast t \ast r$
